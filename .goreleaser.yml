@@ -74,6 +74,6 @@ changelog:
 
 release:
   github:
-    owner: chainreactors
+    owner: h3zh1
     name: malice-network
   draft: true
